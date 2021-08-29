@@ -1,0 +1,79 @@
+/*============Custom=================*/
+.weight{
+  font-weight:800 !important;
+  font-style: italic;
+}
+.italic{
+  font-style: italic !important;
+}
+.weight_1{
+  font-weight: 700;
+  font-size:25px;
+}
+.selected_category{
+  color: #e02c2b !important;
+}
+.shop-catigory ul > li a {
+    color: #242424;
+    display: block;
+    position: relative;
+    font-size: 16px;
+    font-weight: 500;
+}
+.checkbos_category {
+    height: 12px;
+    width: 15px;
+}
+.checkbos_category {
+    height: 12px;
+    width: 15px;
+}
+.attr_radio{
+ width:12px;
+ height:12px;
+ margin-left:0px;
+
+}
+.icon_fa{
+ margin-right:10px;
+ font-size: 20px;
+ color:#e02c2b;
+
+}
+.proudect_warper{
+ font-size: 11px ;
+ font-weight: 700;
+}
+/* .attr_sp{
+ font-family: arial black;
+ font-size: 14px;
+} */
+/* .box_arribute {
+   color: white !important;
+   margin-bottom: 4px;
+   border-radius: 4px;
+   max-width: 185px;
+   text-align: left;
+} */
+.bg_sp{
+background: #ff4c5d !important;
+}
+.border-dark.ion-chevron-down.image-fluid.img_dammo_usr {
+    border: 1px solid #e02c2b !important;
+}
+.copone_valid_price{
+  display:none;
+}
+a.btn.btn-info.btn-xs.glyphicon.glyphicon-trash {
+    font-size: 18px;
+    border-radius: 3px;
+    padding: 0px 16px;
+}
+span.weight.sp_invoice_s {
+    padding: 6px 18px;
+    background: #17a2b8;
+    border-radius: 5px;
+}
+.billing-btn > button {
+    background-color: #1ce6bb !important;
+  }

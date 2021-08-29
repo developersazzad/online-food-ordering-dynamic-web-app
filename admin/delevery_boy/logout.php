@@ -1,0 +1,9 @@
+<?php
+session_start();
+unset($_SESSION['IS_LOGIN_DELEVERY_BOY']);
+unset($_SESSION['IS_LOGIN_DELEVERY_ID']);
+unset($_SESSION['DELEVERY_BOY_NAME']);
+ ?>
+<script>
+window.location.href="login.php";
+</script>

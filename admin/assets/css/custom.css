@@ -1,0 +1,21 @@
+a{
+  cursor: pointer !important;
+}
+.badge.badge-success {
+    cursor: pointer !important;
+}
+h4{
+  font-size: 20px !important;
+}
+.form-control.select {
+    color: black;
+}
+img.unstyled {
+  width: 160px !important;
+  height: 100px !important;
+    border-radius: 1px !important;
+    border: 3px solid #bac3c3;
+}
+a.btn.btn-outline-success.btn-sm {
+    padding: 10px;
+}
